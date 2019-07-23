@@ -6,7 +6,7 @@ const env = {
     DATABASE_NAME: process.env.DATABASE_NAME || "sequelize_blog_post",
     DATABASE_HOST: process.env.DATABASE_HOST || "localhost",
     DATABASE_USERNAME: process.env.DATABASE_USERNAME || "root",
-    DATABASE_PASSWORD: process.env.DATABASE_PASSWORD || "mysql9@M",
+    DATABASE_PASSWORD: process.env.DATABASE_PASSWORD || "****",
     DATABASE_PORT: process.env.DATABASE_PORT || 27017,
     DATABASE_DIALECT: process.env.DATABASE_DIALECT || "mysql"
 

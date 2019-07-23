@@ -2,7 +2,7 @@
 
 const Sequelize = require("sequelize");
 
-const sequelize = new Sequelize("tvm_dev", "root", "mysql9@M", {
+const sequelize = new Sequelize("tvm_dev", "root", "****", {
     host: "127.0.0.1",
     dialect: "mysql",
     operatorsAliases: false,
